@@ -2,7 +2,7 @@
   "name": "markdown_previewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://myname.github.io/react-js-markdown",
+  "homepage": "https://alexaj9.github.io/react-js-markdown-preview",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "marked": "0.7.0",
