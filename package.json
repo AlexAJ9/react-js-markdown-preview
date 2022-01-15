@@ -5,7 +5,7 @@
   "homepage": "https://alexaj9.github.io/react-js-markdown-preview",
   "dependencies": {
     "gh-pages": "^2.1.1",
-    "marked": "0.7.0",
+    "marked": "4.0.10",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
